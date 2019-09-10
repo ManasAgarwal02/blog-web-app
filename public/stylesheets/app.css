@@ -1,0 +1,21 @@
+i.icon {
+    font-size: 2em;
+    font-weight: normal;
+}
+
+body{
+    margin-top: 7em;
+}
+
+#delete {
+    display: inline;
+}
+
+i.right {
+    display: inline;
+    font-size: 1.2em;
+}
+
+#buttonsShow {
+    margin-top:3em;
+}
